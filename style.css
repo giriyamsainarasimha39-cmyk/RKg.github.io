@@ -21,9 +21,9 @@ nav a {
 
 /* HERO */
 .hero {
-    height: 80vh;
+    height: 70vh;
     background: linear-gradient(to right, #4facfe, #00f2fe);
-    color: white;
+    color: red;
     display: flex;
     flex-direction: column;
     justify-content: center;
