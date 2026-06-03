@@ -140,18 +140,23 @@ body {
   border-radius: 20px;
   font-size: 14px;
 }
+
+
+
+
+
 /* HERO */
 .hero {
-    height: 40vh;
-    background: radial-gradient(circle at center, #ff8a00, #e52e71);
-    color: white;
+  min-height: 60vh;
+  background: linear-gradient(135deg, #ff6a00, #7c3aed);
+  color: white;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    text-align: center;
-
+  text-align: center;
 }
+
 
 .hero h1 {
     font-size: 50px;
